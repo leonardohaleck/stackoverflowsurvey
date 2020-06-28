@@ -30,7 +30,7 @@ The notebook is about how I cleaned and analyzed the data to obtain my answers
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@leonardo.haleck/3-esclarecimentos-importantes-para-quem-deseja-iniciar-em-data-science-d1852ee81c39).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
